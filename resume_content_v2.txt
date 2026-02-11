@@ -1,0 +1,89 @@
+Brian Erlangga
+
+# berlangg@uwaterloo.ca | (cid:132) 647-819-9989 | (cid:240) brianerlangga | § BrianErlangga | (cid:18) brianerlangga.com
+
+Education
+Sept 2020 – Current
+University of Waterloo, B.A.Sc. in Computer Engineering
+Relevant Courses: Software Design and Architectures, Machine Learning, Computer Networks, Compilers, Algorithms
+and Data Structures, Systems Programming and Concurrency, Real-time Operating Systems
+Honors: University of Waterloo President’s Scholarship, Faculty of Engineering Entrance Scholarship
+
+Work Experience
+Purolator | Front End Developer Co-op
+
+Waterloo | Sept. 2025 – Dec. 2025
+• Accomplished a significant reduction in bot activity and stabilized API call thresholds by integrating the AWS
+
+reCAPTCHA SDK and collaborating with DevOps to resolve domain-specific 403 error conflicts.
+
+• Delivered the first end-to-end site revamps in over two years for the Marketing Communications team by imple-
+
+menting comprehensive UI designs and engineering a dynamic FAQ component with JavaScript.
+
+Sun Life | Associate Front-End Developer
+
+Toronto | Jan 2025 – April 2025
+• Evaluated the viability of Google Lit Web Components within a React codebase by conducting a technical Proof of
+
+Concept using lit-labs/react.
+
+• Increased performance awareness for 100+ developers by delivering a technical presentation on Google Light-
+
+house and building an Excel dashboard to monitor performance regressions.
+
+Viral Nation | Software Developer
+
+Toronto | Jan 2023 – April 2023
+• Integrated over 50 AI content creation tools via REST APIs for a responsive TechLabs platform and maintained
+
+stability across three web projects during fast-paced sprints.
+
+OANDA | React Native Software Developer
+
+Toronto | Sept 2021 – Aug 2022
+• Developed an assets holding list for forex and crypto services using React Native, TypeScript, and Apollo GraphQL
+
+currently used by global customers.
+
+• Optimized front-end data propagation by building custom Apollo GraphQL queries and ensured high reliability
+
+through JEST test coverage across three trading platforms.
+
+OpenText | Software Developer
+
+Waterloo | Jan 2021 – April 2021
+• Engineered a search query for the OpenText CSS library and implemented a dynamic folder widget using Angular
+
+and Sass, both adopted for internal use.
+
+Projects
+Reciplan | AI-Driven Recipe Extraction Platform
+
+Front-end | Back-end
+• Architected a multi-layered Android application utilizing a Pipe-and-Filter processing pipeline to transform TikTok
+
+video URLs into structured recipe data.
+
+• Engineered a 6-stage extraction pipeline by integrating OpenAI Whisper, GPT-4, and PaddleOCR to achieve high-
+
+accuracy data structuring from raw multimedia inputs.
+
+• Developed a responsive UI with Kotlin and ViewModels while optimizing an "Offline-first" architecture using Room
+
+DB to deliver search results in under 500ms.
+
+Music Submission Platform | Next.js Developer
+
+github.com/automated-dev/saucefamilia
+
+• Developed a web platform using Next.js and Google Cloud for music producers to manage accounts and automate
+
+music file submissions via Stripe API.
+
+Skills
+Languages: C++, JavaScript, TypeScript, CSS, HTML, Java, Python, Swift, Kotlin
+Frameworks/Tools: React, React Native, Angular, Node.js, Next.js, Apollo GraphQL, Git, JEST, Sass
+Platforms/Databases: AWS, Google Cloud, Firebase, Supabase, MongoDB, PostgreSQL, Room DB
+
+

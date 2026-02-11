@@ -1,0 +1,118 @@
+Brian Erlangga
+
++ Toronto, ON # berlangg@uwaterloo.ca (cid:132) 647-819-9989
+
+(cid:240) brianerlangga § BrianErlangga
+
+Education
+B.A.Sc University of Waterloo, Computer Engineering
+
+• Relevant Courses: Data Structures and Algorithms, System Programming
+
+and Concurrency, Real-time Operating Systems
+
+Sept 2020 – Current
+
+Work Experience
+Sun Life, Associate Front-End Developer
+
+• Conducted a POC using @lit-labs/react to evaluate the viability of Google Lit Web
+
+Components in a React codebase.
+
+• Delivered a presentation to 100+ developers on Google Lighthouse, which im-
+proved performance awareness across teams and strengthened my technical com-
+munication skills.
+
+• Created an Excel dashboard that visualized Google Lighthouse metrics by URL
+
+and platform, helping teams monitor performance regressions over time.
+
+• Authored technical documentation for future co-op students to onboard quickly
+
+and maintain internal tools.
+
+Viral Nation, Software Developer
+
+• Developed a responsive website using React, TypeScript, Axios, and MaterialUI
+
+for the TechLabs project which held all their AI Tools.
+
+• Integrated over 50 AI content creation tools via REST APIs, now used by VN Plus
+
+clients
+
+• Assisted in maintaining three web projects by debugging and ensuring stability
+
+across platforms.
+
+• Developed great problem-solving and time management skills from the fast-
+
+paced daily sprints.
+
+OANDA, Software Developer
+
+• Maintained three trading platforms by fulfilling feature requests and resolving bugs
+
+via JIRA.
+
+• Interfaced with their Apollo GraphQL API and built new queries to propagate re-
+
+quired data to the front-end.
+
+• Built reusable components, reusable hooks, and new pages using React Native
+
+and TypeScript, which developers are currently using at OANDA.
+
+• Used JEST test coverage to ensure reliable code that delivers accurate output.
+• Developed an assets holding list using React Native, TypeScript and ApolloGraphQL
+which is currently being used by customers on their forex and crypto trading ser-
+vices.
+
+OpenText, Software Developer
+
+• Developed a search query for the OpenText CSS library using React, JavaScript
+and Sass, which is currently being used by all front-end developers at OpenText.
+• Improved critical thinking skills from resolving web development related issues
+
+raised on GitLab.
+
+• Designed and implemented a dynamic folder widget skeleton using Angular, Type-
+
+Script, Sass which is currently being used by OpenText employees.
+
+Brian Erlangga - Page 1 of 2
+
+Toronto, ON
+January 2025 – April 2025
+
+Toronto, ON
+January 2023 – April 2023
+
+Toronto, ON
+September 2021 – August
+2022
+
+Waterloo, ON
+January 2021 – April 2021
+
+Projects
+
+Music Production Submission Platform
+
+• Developed a web platform for a music producer that allows users to create ac-
+
+counts, purchase a plan, and upload music files for music production.
+
+• Tools Used: Next.js, Google Cloud, Supabase, Stripe API
+
+github.com/automated-
+dev/saucefamilia 2
+
+Skills
+Languages: C++, JavaScript, CSS, HTML, Java
+Technologies: React, Next.js, Node.js, Apollo Graph QL, Git, VS Code, Excel, Google Lit, Google Lighthouse
+
+Brian Erlangga - Page 2 of 2
+
+
